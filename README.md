@@ -30,8 +30,8 @@ logs/              log file (created automatically)
 ## How to Install and Run
 ```
 python --version
-git clone https://github.com/<username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/kartikpal0/pycinema.git
+cd pycinema
 python main.py
 ```
 On the first run you will be asked to create the admin ID and password.
