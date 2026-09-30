@@ -43,4 +43,15 @@ python -m unittest discover tests
 ```
 
 ## Screenshots
-Add screenshots of the main menu, seat map and booking summary here.
+                          MAIN MENU 
+
+![alt text](<Screenshot 2026-09-30 111751.png>)
+
+
+                      SEAT MAP AND TICKET PRICES
+![alt text](<Screenshot 2026-09-30 111829.png>)
+          
+                     ADMIN INTERFACE
+![alt text](<Screenshot 2026-09-30 111926.png>)
+
+
