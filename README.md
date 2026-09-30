@@ -1,3 +1,4 @@
+
 # PyCinema - Movie Ticket Booking System
 
 ## Overview
@@ -45,13 +46,16 @@ python -m unittest discover tests
 ## Screenshots
                           MAIN MENU 
 
-![alt text](<Screenshot 2026-09-30 111751.png>)
+<img width="907" height="512" alt="Screenshot 2026-09-30 111751" src="https://github.com/user-attachments/assets/52ca4aba-ed42-4c84-88bc-9a0b4b9ba58d" />
+
 
 
                       SEAT MAP AND TICKET PRICES
-![alt text](<Screenshot 2026-09-30 111829.png>)
+<img width="1021" height="662" alt="Screenshot 2026-09-30 111829" src="https://github.com/user-attachments/assets/5c61b271-7b7c-43a2-9d46-fea96b345b48" />
+
           
                      ADMIN INTERFACE
-![alt text](<Screenshot 2026-09-30 111926.png>)
+<img width="971" height="499" alt="Screenshot 2026-09-30 111926" src="https://github.com/user-attachments/assets/243d1a60-298c-4b85-8c3b-e5711574210d" />
+
 
 
